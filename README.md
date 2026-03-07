@@ -19,12 +19,12 @@
 <div align="center">
   <img
     width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=joaoguedesluna&show_icons=true&count_private=true&hide_border=true&title_color=e31b25&icon_color=e31b25&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats-vercel-sandy.vercel.app/api?username=joaoguedesluna&exclude_repo=github-readme-stats-vercel&show_icons=true&count_private=true&hide_border=true&title_color=e31b25&icon_color=e31b25&text_color=c9d1d9&bg_color=0d1117"
     alt="João Guedes' GitHub Stats"
   />
   <img
     width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedesluna&layout=compact&hide_border=true&title_color=e31b25&text_color=e31b25&bg_color=0d1117"
+    src="https://github-readme-stats-vercel-sandy.vercel.app/api/top-langs/?username=joaoguedesluna&exclude_repo=github-readme-stats-vercel&layout=compact&hide_border=true&title_color=e31b25&text_color=e31b25&bg_color=0d1117"
     alt="Most Used Languages"
   />
 </div>
