@@ -42,7 +42,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,js,ts,py,mongodb,mysql,postgres"
+      src="https://skillicons.dev/icons?i=java,js,ts,py,cs,postgres,mysql,mongodb,redis"
       alt="Languages & Databases"
     />
   </a>
@@ -52,7 +52,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=spring,hibernate,express,nestjs,jest,fastapi"
+      src="https://skillicons.dev/icons?i=spring,hibernate,express,nestjs,jest,fastapi,dotnet"
       alt="Frameworks & Libraries"
     />
   </a>
@@ -62,7 +62,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=maven,nodejs,npm,pnpm,git,github,gitlab,postman,idea,webstorm,pycharm"
+      src="https://skillicons.dev/icons?i=maven,nodejs,npm,pnpm,git,github,gitlab,docker,postman,idea,webstorm,pycharm,rider"
       alt="Tools & Platforms"
     />
   </a>
@@ -72,7 +72,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,azure,firebase,redis,rabbitmq"
+      src="https://skillicons.dev/icons?i=kubernetes,gcp,aws,azure,firebase,rabbitmq"
       alt="Learning Stack"
     />
   </a>
