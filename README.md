@@ -1,4 +1,4 @@
-<img width="100%" src="https://imgur.com/AAQqskI.png" alt="Banner"/>
+<img width="100%" src="https://imgur.com/AAQqskI.png" alt="Banner" />
 
 <h1>Hello, World! I'm João Guedes 👋</h1>
 
@@ -9,14 +9,14 @@
   />
 </a>
 
-<p align="justify">
+<p style="text-align: justify">
   I'm glad you're here! I'm a passionate software engineering student at <a href="https://jala.university/" target="_blank">Jala University</a> and a backend developer.
   I truly believe that dedication and continuous study are key to growing in the world of technology.
   I'm always seeking to deepen my knowledge and improve my coding practices.
   I'm driven by curiosity and a genuine love for coding, and I aim to evolve constantly, both as a developer and as a learner.
 </p>
 
-<div align="center">
+<div style="text-align: center">
   <img
     width="49%" height="195px"
     src="https://github-readme-stats-vercel-sandy.vercel.app/api?username=joaoguedesluna&exclude_repo=github-readme-stats-vercel&show_icons=true&count_private=true&hide_border=true&title_color=e31b25&icon_color=e31b25&text_color=c9d1d9&bg_color=0d1117"
@@ -72,7 +72,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=kubernetes,gcp,aws,azure,firebase,rabbitmq"
+      src="https://skillicons.dev/icons?i=rabbitmq,elasticsearch,prometheus,grafana,firebase,supabase,kubernetes,gcp,aws,azure,terraform,neovim"
       alt="Learning Stack"
     />
   </a>
@@ -87,10 +87,11 @@
   Sharing Knowledge
 </h2>
 
-<p align="justify">
+<p style="text-align: justify">
   I strongly believe that documenting what I learn and sharing knowledge with others is a powerful way to grow — both personally and professionally.
   By turning complex topics into clear explanations, I not only reinforce my own understanding but also contribute to the learning journey of others.
-  I publish study notes and insights on my <a href="https://guedes.gitbook.io/dev.guedes" target="_blank">GitBook</a>, and you can also find my coding practice and problem-solving progress on <a href="https://www.hackerrank.com/profile/joaoguedesluna" target="_blank">HackerRank</a>.
+  I publish study notes and insights on my <a href="https://guedes.gitbook.io/dev.guedes" target="_blank">GitBook</a>.
+  You can also find my coding practice and problem-solving progress on <a href="https://www.hackerrank.com/profile/joaoguedesluna" target="_blank">HackerRank</a>.
   Sharing is learning, and I'm always eager to connect with others through knowledge.
 </p>
 
@@ -103,12 +104,12 @@
   Let's connect!
 </h2>
 
-<p align="justify">
+<p style="text-align: justify">
   I'm always open to meaningful conversations, collaborations, or just sharing ideas about technology, learning, or career growth.
   Whether you're a fellow developer, a student, or someone curious about coding, feel free to reach out — I'd love to connect!
 </p>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="text-align: left; display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.linkedin.com/in/joaoguedesluna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
